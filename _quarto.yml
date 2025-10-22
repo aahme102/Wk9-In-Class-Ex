@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Wk9 In Class Ex"
+  title: "PA446 Presentation"
   navbar:
     left:
       - href: index.qmd
