@@ -21,3 +21,9 @@ format:
 
 editor: visual
 
+Theme: sandstone
+  mainfont: arial – main font of the website
+  fontsize: 1.5rem – standard font size
+  fontcolor: “#0013d5” – standard font color
+  linkcolor: “#ff33f0” – color for hyperlinks
+  monofont: courier new – font used for code
